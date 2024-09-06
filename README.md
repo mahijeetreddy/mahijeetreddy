@@ -12,3 +12,4 @@ I'm a passionate front-end and full-stack developer with a keen eye for UI/UX de
 - [Portfolio](https://mahijeetreddy-portfolio-mahijeet-reddy-gaddams-projects.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/mahijeet-reddy-gaddam/)
 
+![Coding GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
