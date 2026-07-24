@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Mahijeet 👋</h1>
-<h3 align="center">Software Engineer building event-driven AI workflows and backend platforms</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2EA3F2&height=190&section=header&text=Mahijeet%20Reddy%20Gaddam&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Event-Driven%20Backend%20Platforms&descAlignY=55&descSize=16" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Distributed+Systems+%7C+Event-Driven+Architecture;SNS+%2F+SQS+%2F+Step+Functions+%2F+Lambda+%2F+ECS;Idempotent+Consumers+%2C+DLQs+%2C+Tuned+Retries;PostgreSQL+%2B+Celery+at+Scale" alt="Typing SVG" />
@@ -21,9 +22,13 @@ Previously, I helped migrate a monolithic financial-services platform (32K+ acco
 Enhanced Security with JWTs, OAuth 2.0, RBAC controls.
 
 - 🔭 Currently building **[Wanderful](https://github.com/mahijeetreddy/Wanderful)** — a fault-tolerant LLM orchestration layer across 5+ providers
-- 🌱 Deepening my work in **AWS Certified Developer**, **Databricks AI Associate**, and **OCI AI Professional** territory
 - 🎓 M.S. Computer Science, Cal State Fullerton — where I also taught distributed-systems architecture labs
 - 📫 Reach me at **mahijeetreddygaddam@gmail.com**
+
+**🏅 Certifications**
+![AWS Certified Developer - Associate](https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks AI Associate](https://img.shields.io/badge/Databricks_AI_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Oracle Cloud Infrastructure AI Professional](https://img.shields.io/badge/OCI_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
@@ -144,13 +149,3 @@ WebRTC + event-driven media pipelines supporting 200+ concurrent users at 99%+ s
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahijeetreddy&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mahijeet_Reddy?theme=dark&font=baloo2" alt="LeetCode Stats" />
-</p>
